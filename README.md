@@ -1,5 +1,7 @@
 Hey 👋🏻,
 
+I am Henry
+
  I am interested in, write about, and develop Data Science 
 
  📬 Get in touch
