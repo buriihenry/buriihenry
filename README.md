@@ -1,6 +1,6 @@
 Hey 👋🏻, I am Henry
 
- I am interested in, write about, and develop Data Science 
+ I am interested in, write about, and develop Data Science Projects
 
  📬 Get in touch
 Web: https://buriihenry.wixsite.com/burii                             
