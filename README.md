@@ -9,4 +9,5 @@ LinkedIn: https://www.linkedin.com/in/henry-burii
 
 Twitter: https://twitter.com/hburii
 
-<img src=(https://user-images.githubusercontent.com/19470424/124121903-21a30b80-da7e-11eb-892d-5119c344675c.gif width="500" height="300"/>
+<img src=(![slim-jim-_dribbble_-_800x600_](https://user-images.githubusercontent.com/19470424/124123603-2a94dc80-da80-11eb-8b0c-db1bd46f01bc.gif)
+ width="500" height="300"/>
