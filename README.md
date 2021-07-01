@@ -1,6 +1,6 @@
-Hey 👋🏻, I am Henry
+# Hey I am Henry <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
- I am interested in, write about, and develop Data Science Projects
+I am interested in, write about, and develop Data Science Projects
 
  📬 Get in touch
 Web: https://buriihenry.wixsite.com/burii                             
