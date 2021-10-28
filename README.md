@@ -9,8 +9,8 @@ fast-paced and dynamic firm to create data collection models that generate insig
 
 Skills:
 
-Python, Pandas, Numpy, SQL, Machine learning, AI, Deep Learning, Advanced Excel
-Team Leadership, Analytical Skills, EDA, Visualization, Dashboard creation
+Python, Pandas, Numpy, SQL, Machine learning, AI, Deep Learning, Advanced Excel,
+Team Leadership, Analytical Skills, EDA, Dashboard creation
 
  📬 Get in touch 
 
