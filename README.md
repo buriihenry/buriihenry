@@ -16,7 +16,7 @@ For Data handling, visualization and Image processing
 
 For Machine Learning, Deep learning & Computer Vision
 
-| Keras | SKLearn | Tensorflow | OpenCV(CV2 |
+| Keras | SKLearn | Tensorflow | OpenCV(CV2) |
 | ------------- | ------------- | ------------- | ------------- |
 
 For Web Development & WebScraping
