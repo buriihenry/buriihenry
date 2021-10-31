@@ -7,10 +7,29 @@ fast-paced and dynamic firm to create data collection models that generate insig
 
 <img src="https://user-images.githubusercontent.com/19470424/124124429-14d3e700-da81-11eb-9cc9-aecd4753ae9e.gif" width="200" height="150">
 
-Skills:
+Libraries & Tools👇
 
-Python, Pandas, Numpy, SQL, Machine learning, AI, Deep Learning, Advanced Excel,
-Team Leadership, Analytical Skills, EDA, Dashboard creation
+For Data handling, visualization and Image processing
+
+| Pandas  |  Numpy | Matplotlib | Seaborn |
+| ------------- | ------------- | ------------- | ------------- |
+
+For Machine Learning, Deep learning & Computer Vision
+
+| Keras | SKLearn | Tensorflow | OpenCV(CV2 |
+| ------------- | ------------- | ------------- | ------------- |
+
+For Web Development & WebScraping
+
+| Flask | StreamLit | 
+| ------------- | ------------- |
+
+Cloud Technologies
+
+| AWS | Azure | 
+| ------------- | ------------- |
+
+![Henry's GitHub stats](https://github-readme-stats.vercel.app/api?username=buriihenry&show_icons=true&theme=radical)
 
  📬 Get in touch 
 
