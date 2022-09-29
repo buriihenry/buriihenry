@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@buriihenry](https://medium.com/@buriihenry)
 
-- 💬 Ask me about **Data Science,Software Dev,Machine Learning, AI**
+- 💬 Ask me about **Data Science,Software,Machine Learning, AI**
 
 - 📫 How to reach me **buriihenry@gmail.com**
 
@@ -35,6 +35,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=buriihenry&show_icons=true&locale=en&layout=compact" alt="buriihenry" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=buriihenry&show_icons=true&locale=en" alt="buriihenry" /></p>
+<p>&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=buriihenry&show_icons=true&locale=en" alt="buriihenry" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=buriihenry&" alt="buriihenry" /></p>
+<p><img align="left" width="200" src="https://github-readme-streak-stats.herokuapp.com/?user=buriihenry&" alt="buriihenry" /></p>
