@@ -1,5 +1,8 @@
-
-<h1 align="center">Hi 👋, I'm Henry</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Henry+Burii;I+love+building+Data+Science+Projects">
+  </a>
+</h1>
 <h3 align="center">I am interested in, write about, and develop Data Science Projects</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
