@@ -12,18 +12,23 @@
 
 - 🌱 I’m currently learning **Data Engineering**
 
-- 📝 I regularly write articles on [https://medium.com/@buriihenry](https://medium.com/@buriihenry)
+- 📝 I regularly write articles on [Medium](https://medium.com/@buriihenry)
 
 - 💬 Ask me about **Data Science,Software,Machine Learning, AI**
 
 - 📫 How to reach me **buriihenry@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/henry-burii/](https://www.linkedin.com/in/henry-burii/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/henry-burii/)
 
 - ⚡ Fun fact: **I love starwars**
 
-### Blogs posts
+### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Salary Prediction for Software Developers](https://medium.com/@buriihenry/salary-prediction-for-software-developers-cd19de49d416)
+- [Deploying Movie Recommender System Using Flask](https://medium.com/@buriihenry/movie-recommender-system-using-flask-c44e64120644)
+- [Predicting the price of used cars](https://buriihenry.medium.com/predicting-the-price-of-used-cars-679e050832d8)
+- [Python for Data Engineering](https://buriihenry.medium.com/python-for-data-engineering-58c8b7bf7726)
+- [Data Engineering 101](https://buriihenry.medium.com/data-engineering-101-f926fda9f592)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
