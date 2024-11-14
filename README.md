@@ -22,6 +22,7 @@
 
 ### Latest Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Building an Interactive Chatbot](https://buriihenry.medium.com/building-an-interactive-chatbot-a-journey-into-conversational-ai-774e5ebe5d41)
 - [Salary Prediction for Software Developers](https://medium.com/@buriihenry/salary-prediction-for-software-developers-cd19de49d416)
 - [Deploying Movie Recommender System Using Flask](https://medium.com/@buriihenry/movie-recommender-system-using-flask-c44e64120644)
 - [Predicting the price of used cars](https://buriihenry.medium.com/predicting-the-price-of-used-cars-679e050832d8)
