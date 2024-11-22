@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/hburii" target="blank"><img src="https://img.shields.io/twitter/follow/hburii?logo=twitter&style=for-the-badge" alt="hburii" /></a> </p>
 
-- 🌱 I’m currently locked in **Learning**
+- 🌱 I’m currently locked in - **(Learning)**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@buriihenry)
 
