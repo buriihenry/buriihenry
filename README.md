@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%2340A597&size=30&width=800&lines=Hello+World!+I+am+Henry+Burii;I+love+building+Data+Science+Projects">
   </a>
 </h1>
-<h3 align="center">Talks about: Data Science, Software Engineering, Machine Learning and AI</h3>
+<h3 align="center">Talks about: Software Engineering, Machine Learning and AI</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=buriihenry&label=Profile%20views&color=0e75b6&style=flat" alt="buriihenry" /> </p>
